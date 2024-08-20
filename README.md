@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gugusiow
 - 👀 I’m interested in programming and cyber security
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently in my second year of university
 - 💞️ I’m very new to github and coding...
 - 📫 How to reach me: guntherdong@hotmail.com
 
