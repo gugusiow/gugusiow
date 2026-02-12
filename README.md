@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gugusiow (Terence)
-- 👀 I’m interested in programming and cyber security
-- 🌱 I’m currently in my second year of university
+- 👀 I’m interested in programming and cybersecurity
 - 📫 How to reach me: guntherdong@hotmail.com
 
 <!---
